@@ -2,4 +2,4 @@
 Kyle Stanfield
 University of Maryland
 
-* Tutorial: https://kstanfie.github.io/Speedruns.html
+* Tutorial: [https://kstanfie.github.io/Speedruns.html](https://kstanfie.github.io/Speedruns.html)
